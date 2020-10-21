@@ -145,7 +145,7 @@ servicemonitor:
 #  interval: 10s
 
 prometheusrule:
-  enabled: flase
+  enabled: false
 #  prometheus:
 #    namespace: monitoring
 #    labels:
